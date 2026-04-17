@@ -2,7 +2,7 @@
   "term": "2",
   "year": "2026",
   "generalComment": "",
-  "nextTermOpens": "",
+  "nextTermOpens": "20th April,2026",
   "fees": "",
   "gradeKeyLower": {
     "A": 80,
@@ -22,22 +22,60 @@
     "8": 35,
     "9": 0
   },
+  "gradeKeys": {
+    "form1": {
+      "A": 80,
+      "B": 65,
+      "C": 55,
+      "D": 40,
+      "F": 0
+    },
+    "form2": {
+      "A": 80,
+      "B": 65,
+      "C": 55,
+      "D": 40,
+      "F": 0
+    },
+    "form3": {
+      "1": 80,
+      "2": 75,
+      "3": 70,
+      "4": 65,
+      "5": 60,
+      "6": 55,
+      "7": 45,
+      "8": 35,
+      "9": 0
+    },
+    "form4": {
+      "1": 80,
+      "2": 75,
+      "3": 70,
+      "4": 65,
+      "5": 60,
+      "6": 55,
+      "7": 45,
+      "8": 35,
+      "9": 0
+    }
+  },
   "teachers": {
     "form1": {
-      "Agriculture": "-",
-      "Bible Knowledge": "-",
-      "Biology": "-",
-      "Chemistry": "-",
-      "Chichewa": "-",
+      "Agriculture": "T. Lungu-",
+      "Bible Knowledge": "E. Mwango",
+      "Biology": "J. Lodzeni",
+      "Chemistry": "P. Kalonga",
+      "Chichewa": "L. Dickson/M.Dzekedzeke",
       "Computer Studies": "-",
-      "English": "-",
+      "English": "J. Zebron/G.H. Banda",
       "French": "-",
-      "Geography": "-",
-      "History": "-",
+      "Geography": "Chimtenga",
+      "History": "G.H. Banda",
       "Home Economics": "-",
-      "Mathematics": "-",
-      "Physics": "-",
-      "Social/Life": "-"
+      "Mathematics": "N. Chimalizeni",
+      "Physics": "P. Kalonga",
+      "Social/Life": "P. Chakhaza"
     },
     "form2": {
       "Agriculture": "-",
@@ -154,5 +192,6 @@
       "Social/Life": false
     }
   },
+  "locks": {},
   "passwordEnabled": true
 }
