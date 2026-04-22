@@ -193,5 +193,6 @@
     }
   },
   "locks": {},
-  "passwordEnabled": true
+  "passwordEnabled": true,
+  "sneColumnVisible": false
 }
