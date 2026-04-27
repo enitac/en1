@@ -192,6 +192,15 @@
       "History": true,
       "Mathematics": true,
       "Social/Life": true
+    },
+    "form3": {
+      "Chemistry": true,
+      "Chichewa": true,
+      "English": true,
+      "Geography": true,
+      "History": true,
+      "Social/Life": true,
+      "Mathematics": true
     }
   },
   "passwordEnabled": true,
