@@ -180,7 +180,20 @@
       "Social/Life": false
     }
   },
-  "locks": {},
+  "locks": {
+    "form2": {
+      "Agriculture": true,
+      "Bible Knowledge": true,
+      "Biology": true,
+      "Chemistry": true,
+      "Chichewa": true,
+      "English": true,
+      "Geography": true,
+      "History": true,
+      "Mathematics": true,
+      "Social/Life": true
+    }
+  },
   "passwordEnabled": true,
   "sneColumnVisible": false,
   "setupPassword": "0000"
