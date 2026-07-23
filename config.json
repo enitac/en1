@@ -67,9 +67,12 @@
       "Biology": "J. Lodzeni",
       "Chemistry": "P. Kalonga",
       "Chichewa": "S. Kachulu/L. Chinamale",
+      "Computer Studies": "-",
       "English": "J. Zebron/G.H. Banda",
+      "French": "-",
       "Geography": "Chimtenga",
       "History": "G.H. Banda",
+      "Home Economics": "-",
       "Mathematics": "N. Chimalizeni",
       "Physics": "P. Kalonga",
       "Social/Life": "P. Chakhaza"
@@ -80,9 +83,12 @@
       "Biology": "T. Lungu",
       "Chemistry": "M. Amidu",
       "Chichewa": "M. Dzekedzeke/L. Dickson",
+      "Computer Studies": "-",
       "English": "P. Nthukwa",
+      "French": "-",
       "Geography": "G. Chigwe",
       "History": "Y. Kanyangala",
+      "Home Economics": "-",
       "Mathematics": "J. Lodzeni",
       "Physics": "M. Amidu",
       "Social/Life": "I. Mambo"
@@ -93,9 +99,12 @@
       "Biology": "C. Kamanga",
       "Chemistry": "P. Maudzu",
       "Chichewa": "L. Chinamale/R. Kadzimbuka",
+      "Computer Studies": "-",
       "English": "O. Banda/L. Kamisa",
+      "French": "-",
       "Geography": "J. Mphindo",
       "History": "Chmtenga",
+      "Home Economics": "-",
       "Mathematics": "H. Sindeya",
       "Physics": "M. Amidu",
       "Social/Life": "L. Ussi/P. Chakhaza"
@@ -106,9 +115,12 @@
       "Biology": "S. Mkupatira",
       "Chemistry": "L. Chamira",
       "Chichewa": "L. Dickson/M. Dzekedzeke",
+      "Computer Studies": "-",
       "English": "O. Banda/L. Kamisa",
+      "French": "-",
       "Geography": "L. Mphindo",
       "History": "L. Kamisa",
+      "Home Economics": "-",
       "Mathematics": "H. Chuna",
       "Physics": "P. Kalonga",
       "Social/Life": "E. Mwango/L. Ussi"
@@ -205,5 +217,5 @@
   },
   "passwordEnabled": true,
   "sneColumnVisible": false,
-  "setupPassword": "0000"
+  "setupPassword": "1972"
 }
