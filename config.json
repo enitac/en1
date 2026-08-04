@@ -206,13 +206,13 @@
       "Social/Life": true
     },
     "form3": {
-      "Chemistry": true,
-      "Chichewa": true,
-      "English": true,
-      "Geography": true,
-      "History": true,
-      "Social/Life": true,
-      "Mathematics": true
+      "Chemistry": false,
+      "Chichewa": false,
+      "English": false,
+      "Geography": false,
+      "History": false,
+      "Social/Life": false,
+      "Mathematics": false
     }
   },
   "passwordEnabled": false,
