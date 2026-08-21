@@ -215,7 +215,7 @@
       "Mathematics": false
     }
   },
-  "passwordEnabled": true,
+  "passwordEnabled": false,
   "sneColumnVisible": false,
   "setupPassword": "1972"
 }
